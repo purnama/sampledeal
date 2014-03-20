@@ -1,4 +1,4 @@
-package com.cgi.soa.masterclass.sofortzahlen.validator.factory;
+package com.cgi.soa.masterclass.samplebank.validator.factory;
 
 import java.util.Set;
 

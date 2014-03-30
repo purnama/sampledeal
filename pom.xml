@@ -52,7 +52,7 @@
 					<keep>true</keep>
 					<!-- Package name -->
 					<packageName>
-						com.cgi.soa.masterclass.sampledeal.[bankname].ws
+						com.cgi.soa.masterclass.sampledeal.samplebank.ws
 					</packageName>
 					<!-- generated source files destination -->
 					<sourceDestDir>src/main/java</sourceDestDir>

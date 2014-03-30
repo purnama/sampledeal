@@ -1,4 +1,4 @@
-package com.cgi.soa.masterclass.samplebank.validator.factory;
+package com.cgi.soa.masterclass.sampledeal.validator.factory;
 
 import java.util.Set;
 

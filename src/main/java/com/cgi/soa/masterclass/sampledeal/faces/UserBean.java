@@ -37,4 +37,8 @@ public class UserBean {
 		repository.createUser(userEntity);
 		return "/users/index.xhtml?faces-redirect=true";
 	}
+	
+	public void setRepository(Repository repository){
+		this.repository = repository;
+	}
 }
